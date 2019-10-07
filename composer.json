@@ -1,5 +1,5 @@
 {
-    "name": "GreysonDayn/json-response",
+    "name": "ngreyson/json-response",
     "description": "A simple class that returns a properly formatted json response with HTTP status",
     "keywords": ["Json","Response","API Response Class","PHP"],
     "type": "library",
@@ -8,7 +8,7 @@
 
     "authors": [
         {
-            "name": "GreysonDayn",
+            "name": "ngreyson",
             "email": "gdniedbalski@gmail.com"
         }
     ],
